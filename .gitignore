@@ -4,5 +4,5 @@ __pycache__/
 *.pyd
 .ipynb_checkpoints/
 .streamlit/
-*.txt
+story_*.txt
 *.log
